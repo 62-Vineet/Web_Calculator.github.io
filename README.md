@@ -9,4 +9,4 @@ Error Handling for Reliability: Understanding the significance of accurate resul
 
 Seamless Convenience: By developing the Web calculator, I aimed to provide users with the convenience of performing general calculations directly from their web browsers. The project serves as a practical and efficient tool for everyday mathematical tasks.
 
-This project not only highlights my technical proficiency in web development but also showcases my attention to detail and commitment to delivering user-centric solutions
+
